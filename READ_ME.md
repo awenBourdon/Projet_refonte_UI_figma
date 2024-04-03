@@ -1,4 +1,4 @@
-# Projet de Refonte Fictive de [Nom du Site]
+# Projet de Refonte Fictive de Landes Gonflables
 
 Ce dépôt contient les maquettes pour une refonte fictive du site Landes Gonflables. Ce projet a été réalisé à des fins d'apprentissage et de démonstration uniquement.
 
