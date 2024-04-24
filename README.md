@@ -18,4 +18,4 @@ Travail réalisé dans le cadre d'un projet de fin de formation consistant à fa
 
 Ce dépôt comprend les éléments suivants :
 
-- **Maquettes : Zonings / Wireframes / Maquettes hautes qualités au format PNG pour faciliter la lecture
+- **Maquettes : Zonings / Wireframes / Maquettes hautes qualités au format PNG pour faciliter la lecture (format PDF possible à la demande)
